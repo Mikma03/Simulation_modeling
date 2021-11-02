@@ -7,3 +7,6 @@ Using Python to solve various problems. The subject is carried out as part of ma
 
 
 [QUANTITATIVE METHODS IN ECONOMICS AND INFORMATION SYSTEMS](https://ssl-oferta.sgh.waw.pl/en/master/programmes-pl/miesi/Pages/default.aspx)
+
+
+This is realization of subject: Simulation Modeling. Markovitz theory and SNP 500 stocks data.

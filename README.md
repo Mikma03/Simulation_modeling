@@ -10,3 +10,6 @@ Using Python to solve various problems. The subject is carried out as part of ma
 
 
 This is realization of subject: Simulation Modeling. Markovitz theory and SNP 500 stocks data.
+
+
+Excellent book where you can find more information and examples: https://subscription.packtpub.com/book/data/9781838985097/1
